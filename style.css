@@ -1,0 +1,242 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(99, 214, 243);
+  position: fixed;
+  width: 100%;
+  height: 100px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 200%;
+}
+
+li a:hover {
+  background-color: rgb(18, 233, 233);
+}
+
+.header {
+  text-align: center;
+  font-size: 300%;
+  margin-top: 25px;
+}
+
+.sad_pikachu {
+  margin-top: 15px;
+  width: 1832px;
+  height: 700px;
+}
+
+.mewtwo {
+  margin-top: 150px;
+  width: 90%;
+  height: 600px;
+  margin-left: 90px;
+  border-style: ridge;
+  border-color: rgb(99, 214, 243);
+  border-width: 10px;
+}
+
+.strip {
+  background-color: rgb(3, 85, 105);
+  height: 25px;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.info {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(99, 214, 243);
+}
+
+.info > div {
+  width: 900px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.stats {
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(99, 214, 243);
+}
+
+.stats > div {
+  width: 700px;
+  margin: 25px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+}
+
+.testaments {
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(99, 214, 243);
+}
+
+.testaments > div {
+  width: 800;
+  margin: 30px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 40px;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+}
+
+.about {
+  margin: 50px;
+  background-color: rgb(99, 214, 243);
+  padding: 30px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.about2 {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: navy;
+  padding: 30px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+.sad_tepig {
+  margin-top: 20px;
+  width: 600px;
+}
+
+.sad_oshwatt {
+  margin-top: 20px;
+  width: 700px;
+  height: 500px;
+}
+
+.sad_eevee {
+  margin-top: 20px;
+  width: 400px;
+}
+
+.associations {
+  background-color: rgb(3, 85, 105);
+  color: gold;
+  height: 50px;
+  width: 1816px;
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.links {
+  background-color: rgb(3, 85, 105);
+  font-size: 200%;
+  height: 100px;
+  width: 1736px;
+  padding-top: 50px;
+  padding-left: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.links > div {
+  width: 400px;
+  text-align: center;
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.link {
+  color: gold;
+}
+
+.links > div :hover {
+  font-size: 150%;
+  color: magenta;
+}
+
+.other_header {
+  text-align: center;
+  color: lime;
+  font-size: 40px;
+  border-style: solid;
+  margin: 10px;
+}
+
+.bidoof {
+  width: 100%;
+  height: 100%;
+}
+
+.rapidash {
+  width: 100%;
+  height: 100%;
+}
+
+.stunfisk {
+  width: 100%;
+  height: 100%;
+}
+
+.sad_cubone {
+  margin-top: 150px;
+  margin-left: 400px;
+  width: 1000px;
+  height: 800px;
+  border-style: inset;
+}
+
+.rick_roll {
+  display: block;
+  background-color: rgb(9, 247, 9);
+  color: black;
+  margin-left: 700px;
+  margin-right: 700px;
+  text-align: center;
+  font-size: 50px;
+  padding: 25px;
+}
+
+.rick_roll:hover {
+  color: rgb(180, 6, 180);
+}
+
+.sad_togepi {
+  margin-top: 150px;
+  margin-left: 600px;
+}
