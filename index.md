@@ -8,7 +8,7 @@
   </head>
   <body>
     <ul>
-      <li><a class="active" href="index.html">Home</a></li>
+      <li><a class="active" href="index.md">Home</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="donate.html">Donate</a></li>
       <li><a href="work.html">Our Work</a></li>
